@@ -42,6 +42,10 @@
 *.idb
 *.pdb
 
+# macOS files
+*.DS_Store
+*.swp
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
