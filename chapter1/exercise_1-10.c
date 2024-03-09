@@ -24,5 +24,5 @@ int main() {
         } else
         	putchar(c);
     }
-    printf("%d %d %d\n", nl, nw, nc);
+    printf("\n%d %d %d\n", nl, nw, nc);
 }
